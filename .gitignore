@@ -1,0 +1,107 @@
+# .NET artifacts
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dll
+*.exe
+*.pdb
+*.cache
+*.bak
+*.log
+*.lib
+*.ncb
+*.ilk
+*.msi
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio 
+.vs/
+
+# Rider IDE
+.idea/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
+# Azure DevOps pipeline cache (thanks, .NET SDK!)
+.paket/paket.exe.local
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Test Results
+[TestFf]ilter
+*.TestResult
+*.coverage
+coverlet.*
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+nCrunchTemp_*
+*ncrunchsolution
+
+# Tye
+.tye/
+
+# .NET-specific files
+project.lock.json
+Project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# NuGet packages directory
+packages/
+
+# R# Backup Files
+*_resharper.*
+*___jb_bak___.*
+*___jb_old___.*
+*.bak
+
+# dotnet tools local directory
+.dotnet/tools/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Secret files
+appsettings.Development.json
+appsettings.json
+*.secrets.json
+
+# Microsoft Azure Files
+csx/
+*.build.csdef
+*.publishsettings
+
+tempkey*
